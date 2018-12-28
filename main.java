@@ -16,6 +16,4 @@ public class Main
 	djdfhh
 	hdhhf
 }
-}f;nr
-frmgf
-fml
+}
